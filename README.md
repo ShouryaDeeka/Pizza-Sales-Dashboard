@@ -116,10 +116,4 @@ DIVIDE([Total Sales], [Total Orders])
 
 ---
 
-## 📷 Dashboard Preview
-
-(Add dashboard screenshot here)
-
----
-
 ## ⭐ If you found this project interesting, feel free to star the repository and connect with me on LinkedIn!
